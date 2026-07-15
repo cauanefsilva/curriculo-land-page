@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil  Cauane Francisco Silva 😁
 
-# Portfolio / Currículo Online 💻
+# Portifolio / Currículo Online 💻
 
 Olá! Seja muito bem-vindo(a) ao repositório do meu projeto de portfólio. Este é um site pessoal que desenvolvi para apresentar minhas informações profissionais, redes sociais e habilidades em desenvolvimento web.
 
