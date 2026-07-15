@@ -1,5 +1,43 @@
 ## Bem-vindo(a) ao meu perfil  Cauane Francisco Silva 😁
 
+# Portfolio / Currículo Online 💻
+
+Olá! Seja muito bem-vindo(a) ao repositório do meu projeto de portfólio. Este é um site pessoal que desenvolvi para apresentar minhas informações profissionais, redes sociais e habilidades em desenvolvimento web.
+
+---
+
+## 👩‍💻 Sobre Mim
+
+Sou a **Cauane Silva**. Atualmente, estou na reta final da minha faculdade de Tecnologia em Sistemas para Internet e me especializando em desenvolvimento Front-end através da Alura.
+
+Utilizei este projeto para colocar em prática meus estudos de HTML5 e CSS3, criando uma interface limpa, organizada e agradável para apresentar minha trajetória.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **HTML5:** Estruturação semântica da página.
+* **CSS3:** Estilização e design visual.
+* **Flexbox:** Alinhamento e posicionamento dos elementos na tela.
+* **Boas Práticas:** Uso do arquivo `.gitignore` para manter o repositório limpo e organizado.
+
+---
+
+## 🚀 Como Visualizar o Projeto
+
+Você pode visualizar este projeto rodando diretamente no seu navegador! Ele está hospedado gratuitamente no GitHub Pages.
+
+👉 [Clique aqui para acessar o site oficial](https://cauanefsilva.github.io/curriculo-land-page/)
+
+---
+
+## 📬 Vamos Conversar?
+
+Fique à vontade para olhar meu código e entrar em contato comigo!
+* **LinkedIn:** [Adicione aqui o link do seu LinkedIn]
+* **E-mail:** [Adicione aqui o seu e-mail]
+
+
  <div>
    <a href="https://github.com/cauanefsilva
 ">
