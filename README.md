@@ -3,9 +3,6 @@
 # Portifólio-Cauane
 =======
 ## Bem-vindo(a) ao meu perfil  Cauane Francisco Silva 😁
-=======
-## Bem-vindo(a) ao meu perfil Cauane Francisco Silva 😁
->>>>>>> 2fffcbf8f07c22a40df8cc4ff6a11f14e9f0063d
 
 # Portfólio / Currículo Online 💻
 
